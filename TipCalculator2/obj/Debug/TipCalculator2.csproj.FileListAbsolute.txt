@@ -1,0 +1,10 @@
+C:\Users\divyam\source\repos\TipCalculator2\TipCalculator2\obj\Debug\TipCalculator2.csprojAssemblyReference.cache
+C:\Users\divyam\source\repos\TipCalculator2\TipCalculator2\obj\Debug\TipCalculator2.Properties.Resources.resources
+C:\Users\divyam\source\repos\TipCalculator2\TipCalculator2\obj\Debug\TipCalculator2.csproj.GenerateResource.cache
+C:\Users\divyam\source\repos\TipCalculator2\TipCalculator2\obj\Debug\TipCalculator2.csproj.CoreCompileInputs.cache
+C:\Users\divyam\source\repos\TipCalculator2\TipCalculator2\bin\Debug\TipCalculator2.exe.config
+C:\Users\divyam\source\repos\TipCalculator2\TipCalculator2\bin\Debug\TipCalculator2.exe
+C:\Users\divyam\source\repos\TipCalculator2\TipCalculator2\bin\Debug\TipCalculator2.pdb
+C:\Users\divyam\source\repos\TipCalculator2\TipCalculator2\obj\Debug\TipCalculator2.exe
+C:\Users\divyam\source\repos\TipCalculator2\TipCalculator2\obj\Debug\TipCalculator2.pdb
+C:\Users\divyam\source\repos\TipCalculator2\TipCalculator2\obj\Debug\TipCalculator2.Form1.resources
